@@ -1,0 +1,113 @@
+a:link, a:visited { color: #CCFFFF; text-decoration: none; }
+
+a:hover { color: #99FFFF; text-decoration: underline; }
+
+body.loading {
+	background-color: #667788;
+	color: #ffffff;
+	font-family: Verdana,Arial,sans-serif;
+	font-weight: bold;
+	text-align: center:
+	vertical-align:				center:
+	font-size:					250%;
+}
+
+body.wwwinamp_control {
+	background: #666666 url(/controls.bg.gif);
+	color: #000000;
+	margin: 0px;
+	padding: 0px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+body.wwwinamp_left {
+	background-color: #667788;
+	color: #ffffff;
+	overflow-x: hidden;
+	scrollbar-3dlight-color: #ffffff;
+	scrollbar-arrow-color: #FFFFFF;
+	scrollbar-darkshadow-color: #FFFFFF;
+	scrollbar-face-color: #335577;
+	scrollbar-highlight-color: #335577;
+	scrollbar-shadow-color: #335577;
+	scrollbar-track-color: #113355;
+}
+
+body.wwwinamp_right {
+	background-color: #223344;
+	color: #ffffff;
+	overflow-x: hidden;
+	scrollbar-3dlight-color: #334455;
+	scrollbar-arrow-color: #8899AA;
+	scrollbar-darkshado	w-color: #334455;
+	scrollbar-face-color: #334455;
+	scrollbar-highlight-color: #8899AA;
+	scrollbar-shadow-color: #8899AA;
+	scrollbar-track-color: #001122;
+}
+
+hr { color: #000000; }
+
+img { border: #FFFF00; }
+
+input {
+	background-color: #445566;
+	border: 1px #FFFFFF solid;
+	color: #CCFFFF;
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 90%;
+}
+
+table.l {
+	border: 0px;
+	border-collapse:			collapse;
+	width: 100%;
+	padding: 5px;
+}
+
+td {
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 60%;
+	vertical-align: middle;
+}
+
+td.ca { vertical-align: top; width: 1px; }
+
+td.l { font-size: 100%; vertical-align: top; width: 100%; }
+
+td.ld {
+	background: #445566;
+	color: #CCCCCC;
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 70%;
+	font-weight: bold;
+	padding: 1px;
+	vertical-align: center;
+}
+
+td.wwwinamp_left { background-color: #224466; }
+
+td.wwwinamp_right { background-color: #000000; }
+
+.current { vertical-align: top; }
+
+.currentbox {
+	background-color: #113355;
+	border: 1px solid;
+	padding: 4;
+	width: 100%;
+}
+
+.currentsong { color: #FFFFFF; }
+
+.footer, pre, tt { font-family: Verdana,Arial,sans-serif; font-size: 60%; }
+
+.inactive { color: #999999; }
+
+.search {
+	font-family: Verdana,Arial,sans-serif;
+	font-size: 70%;
+	font-weight: bold;
+}
+
